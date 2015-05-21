@@ -14,7 +14,7 @@ In the REPL:
 (require '[bocko.core :refer [color plot scrn hlin vlin clear *color*]])
 ```
 
-Now you can use Bocko, plotting in your simulator or on your device.
+Now you can use Bocko, plotting into your canvas.
 
 ```
 cljs.user=> (color :pink)
