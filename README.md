@@ -4,8 +4,13 @@ Render Bocko into a canvas element: Using a ClojureScript REPL, you can render [
 
 # Usage
 
-1. In the REPL, init `bocko-canvas`.
-2. In the REPL, `(require '[bocko.core :refer [color plot scrn hlin vlin clear *color*]])`.
+In the REPL:
+
+```clojure
+(require 'bocko-canvas.core)
+(bocko-canvas.core/init (.getElementById js/document "canvas"))
+(require '[bocko.core :refer [color plot scrn hlin vlin clear *color*]])
+```
 
 Now you can use Bocko, plotting in your simulator or on your device.
 
