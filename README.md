@@ -29,7 +29,7 @@ Try some of the examples from the [Bocko](https://github.com/mfikes/bocko#exampl
 
 # Threading Concerns
 
-See [Bocko iOS](https://github.com/mfikes/bocko-ios).
+See [Bocko iOS](https://github.com/mfikes/bocko-ios#threading-concerns).
 
 # License
 
