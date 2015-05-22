@@ -1,6 +1,6 @@
 # Bocko Canvas
 
-Render Bocko into a canvas element: Using a ClojureScript REPL, you can render [Bocko](https://github.com/mfikes/bocko) into a canvas element.
+Using a ClojureScript REPL, you can render [Bocko](https://github.com/mfikes/bocko) into a canvas element.
 
 [![Clojars Project](http://clojars.org/bocko-canvas/latest-version.svg)](http://clojars.org/bocko-canvas)
 
