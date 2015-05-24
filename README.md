@@ -1,6 +1,8 @@
 # Bocko Canvas
 
-Render Bocko into a canvas element: Using a ClojureScript REPL, you can render [Bocko](https://github.com/mfikes/bocko) into a canvas element.
+Using a ClojureScript REPL, you can render [Bocko](https://github.com/mfikes/bocko) into a canvas element.
+
+[![Clojars Project](http://clojars.org/bocko-canvas/latest-version.svg)](http://clojars.org/bocko-canvas)
 
 # Usage
 
@@ -12,7 +14,7 @@ In the REPL:
 (require '[bocko.core :refer [color plot scrn hlin vlin clear *color*]])
 ```
 
-Now you can use Bocko, plotting in your simulator or on your device.
+Now you can use Bocko, plotting into your canvas.
 
 ```
 cljs.user=> (color :pink)
@@ -27,7 +29,7 @@ Try some of the examples from the [Bocko](https://github.com/mfikes/bocko#exampl
 
 # Threading Concerns
 
-See [Bocko iOS](https://github.com/mfikes/bocko-ios).
+See [Bocko iOS](https://github.com/mfikes/bocko-ios#threading-concerns).
 
 # License
 
