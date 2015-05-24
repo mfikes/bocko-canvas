@@ -1,6 +1,6 @@
 (defproject bocko-canvas "0.1.0"
   :description "Render Bocko into a canvas element"
-  :url "http://github.com/mfikes/goby"
+  :url "https://github.com/mfikes/bocko-canvas"
   :license {:name "Eclipse"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :source-paths  ["src"]
