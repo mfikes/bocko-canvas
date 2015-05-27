@@ -2,8 +2,6 @@
 
 Using a ClojureScript REPL, you can render [Bocko](https://github.com/mfikes/bocko) into a canvas element.
 
-[![Clojars Project](http://clojars.org/bocko-canvas/latest-version.svg)](http://clojars.org/bocko-canvas)
-
 # Usage
 
 ```
@@ -13,6 +11,8 @@ lein new bocko my-project
 Then find a short README.md at the top-level of the generated project, explaining how to get up and running.
 
 # Detailed Usage
+
+[![Clojars Project](http://clojars.org/bocko-canvas/latest-version.svg)](http://clojars.org/bocko-canvas)
 
 In the REPL:
 
