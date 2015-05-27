@@ -8,7 +8,7 @@ Using a ClojureScript REPL, you can render [Bocko](https://github.com/mfikes/boc
 lein new bocko-canvas my-project
 ```
 
-Then find a short README.md at the top-level of the generated project, explaining how to get up and running.
+Then find a short `README.md` at the top-level of the generated project, explaining how to get up and running.
 
 # License
 
