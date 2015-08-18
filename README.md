@@ -12,4 +12,6 @@ Then find a short `README.md` at the top-level of the generated project, explain
 
 # License
 
-Distributed under the Eclipse Public License, which is also used by Clojure.
+Copyright © 2015 Mike Fikes
+
+Distributed under the Eclipse Public License either version 1.0 or (at your option) any later version.
