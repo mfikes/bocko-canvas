@@ -12,6 +12,6 @@ Then find a short `README.md` at the top-level of the generated project, explain
 
 # License
 
-Copyright © 2015 Mike Fikes
+Copyright © 2015–2016 Mike Fikes
 
 Distributed under the Eclipse Public License either version 1.0 or (at your option) any later version.
